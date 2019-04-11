@@ -1,0 +1,12 @@
+paperScissor4 is a java based project
+
+In this project, we were assigned to create the game "rock, paper, scissor, spcock, and Lizzard".
+The main criteria for this project was to:
+>implement the game with a socket server, the server would drive the game, the clients would join
+>implement multithreading: with the server running on the main thread, we needed seperate threads for the GUI
+>implement GUI: For the clients, we need to implement clickable buttons
+
+
+
+This product is not %100 complete,there are minor bugs. But the main aspects, such as successfully 
+establishing a connection between server and client does work, and etc.
